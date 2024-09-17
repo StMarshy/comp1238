@@ -12,7 +12,17 @@
 | Photography     | Capturing moments through my lens, focusing on nature and urban landscapes. |
 
 ## Number Row Characters
-~,!,@,#,$,%,^,&,*,(,)
+- ~
+- !
+- @
+- #
+- $
+- %
+- ^
+- &
+- *
+- (
+- )
 
 ## Links
 [Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
