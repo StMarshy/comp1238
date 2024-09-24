@@ -34,3 +34,17 @@
 :stuck_out_tongue_winking_eye:
 :wink:
 :sleeping:
+
+
+## Keyboard Shortcuts
+
+- Ctrl+S (save)
+- Ctrl+F (find)
+- Ctrl+X (cut)
+
+Shortcuts I would like to start using:
+- Alt+Tab (switch between open applications)
+- Ctrl+Shift+N (open a new incognito window in browsers)
+- Ctrl+Shift+V (paste without formatting)
+
+
