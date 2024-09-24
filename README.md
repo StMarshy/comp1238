@@ -35,7 +35,6 @@
 :wink:
 :sleeping:
 
-
 ## Keyboard Shortcuts
 
 - Ctrl+S (save)
