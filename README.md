@@ -45,3 +45,5 @@ Shortcuts I would like to start using:
 - Alt+Tab (switch between open applications)
 - Ctrl+Shift+N (open a new incognito window in browsers)
 - Ctrl+Shift+V (paste without formatting)
+
+[CLI commands](docs/cli.md)
